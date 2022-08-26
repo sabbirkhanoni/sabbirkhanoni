@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Md Sabbir Hossain Onik
 #### Future Software Engineer
-![Future Software Engineer](C:\Users\ASUS\Downloads\Black Orange Simple Graphic Designer LinkedIn Banner.png)
+![Future Software Engineer](Orange Simple Graphic Designer LinkedIn Banner.png)
 
 Hello Dear! This Is Md sabbir Hossain Onik. I love to learn, I love to teach, I love to do something new. I like to wake up every morning and think about what can be done that day. I am a freshman university student of Computer Science And Engineering.
 
