@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Md Sabbir Hossain Onik
-#### Software Engineer
-![Software Engineer](Orange Simple Graphic Designer LinkedIn Banner.png)
+#### A Software Engineer
 
 Hello, I'm Md. Sabbir Khan Oni. I am a Computer Science and Engineering student with a growing interest in becoming a Software Engineer. I am currently focusing on expanding my skills in Competitive Programming and continuously learning to improve my Problem-Solving abilities.
 
@@ -13,12 +12,13 @@ Currently, I am also exploring Web Development and have a keen interest in Block
 I am enthusiastic about applying my programming expertise and continual growth mindset to make a meaningful impact as a Software Engineer. I am open to new opportunities that allow me to expand my skills and contribute to the advancement of technology.
 
 
-Skills: C++, Java Swing.
+Skills: C++, Java Swing, HTML5 and CSS3
 
 - 🌱 I’m currently learning DSA, Web Devlopment, Blockchain Devlopment.
-- 👯 I’m looking to collaborate on E-mail 
-- 💬 Ask me about C++, Java Swing.
+- 👯 I’m looking to collaborate on E-mail
 - 📫 Reach me By Email: mdsabbirkhanoni@gmail.com 
+- 💬 Ask me about C++, Java Swing, HTML5 and CSS3.
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sabbirkhanoni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100080444026866.com)  
