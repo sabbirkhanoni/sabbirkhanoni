@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Md Sabbir Hossain Onik
+### Hi there 👋, I'm Md Sabbir Khan Oni
 #### A Software Engineer
 
 Hello, I'm Md. Sabbir Khan Oni. I am a Computer Science and Engineering student with a growing interest in becoming a Software Engineer. I am currently focusing on expanding my skills in Competitive Programming and continuously learning to improve my Problem-Solving abilities.
