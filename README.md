@@ -3,7 +3,7 @@
 
 Hello, I'm Md. Sabbir Khan Oni. I am a Computer Science and Engineering student with a growing interest in becoming a Software Engineer. I am currently focusing on expanding my skills in Competitive Programming and continuously learning to improve my Problem-Solving abilities.
 
-I have experience in solving coding problems using C++ and I am actively honing my skills in this area. Additionally, I have developed a Java Desktop Application using the Java Swing Framework, demonstrating my ability to create User-Friendly Software Interfaces.
+I am actively honing my skills in this area. Additionally, I have developed a C# (.Net Framework) Desktop Application with MS SQL Server and Java (Swing Toolkit) Desktop Application using MYSql, demonstrating my ability to create User-Friendly Software Interfaces.
 
 As a dedicated learner, I have a strong desire to broaden my knowledge and stay updated with the latest technologies. I am a versatile team player and possess excellent communication skills, which enable me to collaborate effectively with others.
 
@@ -12,14 +12,11 @@ Currently, I am also exploring Web Development and have a keen interest in Block
 I am enthusiastic about applying my programming expertise and continual growth mindset to make a meaningful impact as a Software Engineer. I am open to new opportunities that allow me to expand my skills and contribute to the advancement of technology.
 
 
-Skills: C++, Java Swing, HTML5 and CSS3
+Skills: C++, Java with Swing Toolkit, C# with .NET Framework, ReactJS, NodeJS, ExpressJS, HTML5 and CSS3.
 
 - 🌱 I’m currently learning DSA, Web Devlopment, Blockchain Devlopment.
 - 👯 I’m looking to collaborate on E-mail
 - 📫 Reach me By Email: mdsabbirkhanoni@gmail.com 
-- 💬 Ask me about C++, Java Swing, HTML5 and CSS3.
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sabbirkhanoni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100080444026866.com)  
 
