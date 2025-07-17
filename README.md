@@ -11,9 +11,6 @@ Currently, I am also exploring Web Development and have a keen interest in Block
 
 I am enthusiastic about applying my programming expertise and continual growth mindset to make a meaningful impact as a Software Engineer. I am open to new opportunities that allow me to expand my skills and contribute to the advancement of technology.
 
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirkhanoni&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirkhanoni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbirkhanoni" alt="sabbirkhanoni" /></a> </p>
