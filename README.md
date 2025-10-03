@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Md Sabbir Khan Oni    	     					  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' margin-left='5' width='24' height='16'></a>
+### Hi 👋, I'm Md Sabbir Khan Oni    	     					  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' margin-left='5' width='24' height='16'></a>
 #### A Software Engineer
 
 Hello, I'm Md. Sabbir Khan Oni. I am a Computer Science and Engineering student with a growing interest in becoming a Software Engineer. I am currently focusing on expanding my skills in Competitive Programming and continuously learning to improve my Problem-Solving abilities.
